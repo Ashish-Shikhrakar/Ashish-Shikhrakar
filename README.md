@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shikhrakar.e@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15OuRUmwuF_KVYxjQ1HNj2l3rAunqNdDg/view?usp=drive_link](https://drive.google.com/file/d/15OuRUmwuF_KVYxjQ1HNj2l3rAunqNdDg/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NndpT4Sn5mnClkhlSVnw3M0Z2X5NHRHX/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
