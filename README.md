@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashish Raj Shikhrkar</h1>
-<h3 align="center">A passionate developer and programmer from Nepal</h3>
 
 - 🔭 I’m currently working on **Application Development**
-
-- 🌱 I’m currently learning **Flutter and Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashish-Shikhrakar](https://github.com/Ashish-Shikhrakar)
 
 - 📫 How to reach me **shikhrakar.e@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NndpT4Sn5mnClkhlSVnw3M0Z2X5NHRHX/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
